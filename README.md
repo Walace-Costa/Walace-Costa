@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Walace! 👋
 
-<!--
-**Walace-Costa/Walace-Costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Sistemas de Informação**  
+🌐 Rumo a uma carreira como **Desenvolvedor Fullstack**  
+🚀 Em constante aprendizado e evolução!
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou focado em aprimorar minhas habilidades para atuar como dev fullstack. Tenho experiência e conhecimentos em:
+
+- **HTML | CSS | JavaScript**
+- **React | TypeScript**
+- **Tailwind CSS**
+- **Firebase**
+
+Em breve, você verá meus projetos sendo adicionados por aqui! Fique ligado!
+
+## Conecte-se comigo
+
+- Instagram: [@walacec7](https://instagram.com/walacec7)
+
+---
+
+> “O sucesso é a soma de pequenos esforços repetidos dia após dia.”  
+  
+
+Obrigado por visitar meu perfil! 😊
